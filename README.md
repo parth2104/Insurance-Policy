@@ -36,8 +36,8 @@ This project addresses these challenges by creating a unified dashboard that sim
 
 ---
 ## Row-Level Security (RLS)
-
 Row-Level Security (RLS) is implemented to restrict data access based on user roles. It ensures that users can only view data relevant to them, such as specific regions or segments. This enhances data security and simulates real-world access control in insurance systems.
+
 ---
 
 ## Business Use & Impact
