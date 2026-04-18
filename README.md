@@ -1,4 +1,4 @@
- # Insurance Policy Analysis Dashboard (Power BI)
+ # Insurance Policy Analysis Report (Power BI)
 
 ##  Project Overview
 
@@ -34,6 +34,10 @@ This project addresses these challenges by creating a unified dashboard that sim
 * Active vs inactive policy tracking
 * Interactive filters for dynamic analysis
 
+---
+## Row-Level Security (RLS)
+
+Row-Level Security (RLS) is implemented to restrict data access based on user roles. It ensures that users can only view data relevant to them, such as specific regions or segments. This enhances data security and simulates real-world access control in insurance systems.
 ---
 
 ## Business Use & Impact
